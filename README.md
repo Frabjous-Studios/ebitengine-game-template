@@ -2,6 +2,12 @@
 
 A basic skeleton for a 2D game using the [Ebitengine](https://ebitengine.org/) library.
 
+Extended with:
+1) A credits screen
+2) A main menu
+3) YarnSpinner integration
+4) Probably some other things too, but most importantly _no actual game logic_.
+
 -----✂️-----
 
 > ⚠️ After cloning this repository:
