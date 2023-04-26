@@ -2,7 +2,7 @@
 
 A basic skeleton for a 2D game using the [Ebitengine](https://ebitengine.org/) library.
 
-Extended with:
+Extended from [the original](sinisterstuf/ebitengine-game-template) with:
 1) A credits screen
 2) A main menu
 3) YarnSpinner integration
