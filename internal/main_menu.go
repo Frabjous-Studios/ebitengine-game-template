@@ -78,7 +78,6 @@ func (m *MainMenuScene) down() {
 }
 
 func (m *MainMenuScene) updateButtons() {
-	fmt.Println(m.selected)
 	for idx, btn := range m.buttons {
 		if idx == m.selected {
 			btn.Focus(true)
