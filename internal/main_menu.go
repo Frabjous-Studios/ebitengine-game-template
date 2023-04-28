@@ -137,7 +137,7 @@ func showCredits(g *Game) {
 	debug.Println("Credits clicked")
 	c, err := NewCreditsScene(g)
 	if err != nil {
-		debug.Println("error moving to credits screen: %v", err)
+		debug.Printf("error moving to credits screen: %v", err)
 		panic(err)
 	}
 	g.ChangeScene(c)
